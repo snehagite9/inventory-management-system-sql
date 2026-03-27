@@ -1,8 +1,6 @@
 # Inventory-Management-System-Sql
 MySQL-based Inventory Management System for managing vehicles, spare parts, sales, suppliers, and generating analytical reports.
 
-# 🚗 Inventory Management System (SQL Project)
-
 ## 📌 Overview
 
 This project is a **Database Management System** designed for a **Four-Wheeler Inventory Business**.
