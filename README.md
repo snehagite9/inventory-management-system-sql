@@ -62,23 +62,6 @@ It manages vehicles, spare parts, suppliers, customers, sales, and invoices effi
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/inventory-management-system.git
-```
-
-2. Open MySQL and run:
-
-```sql
-source schema.sql;
-source data.sql;
-source queries.sql;
-```
-
----
 
 ## 📌 Future Improvements
 
